@@ -19,3 +19,4 @@ This project showcases a deployment of a dynamic landing page using Nginx.
 4. Configure Nginx reverse proxy
 5. (Optional) Secure with Certbot
 
+![alt text](<../../../OneDrive/Pictures/Screenshot 2025-06-14 173308.png>)
