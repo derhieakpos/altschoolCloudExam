@@ -11,7 +11,7 @@ This project showcases a deployment of a dynamic landing page using Nginx.
 
 ## 📸 Screenshot
 ![Landing Page Screenshot](./screenshot.png)
-
+![Image](<Screenshot 2025-06-15 041654.png>)
 ## 🚀 Setup Steps
 1. Provision EC2 Ubuntu server
 2. Install Node.js & Nginx
@@ -19,4 +19,3 @@ This project showcases a deployment of a dynamic landing page using Nginx.
 4. Configure Nginx reverse proxy
 5. (Optional) Secure with Certbot
 
-![alt text](<../../../OneDrive/Pictures/Screenshot 2025-06-14 173308.png>)
