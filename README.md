@@ -83,6 +83,8 @@ update the library
                 }
         }
 
+Make sure your server.js correctly serves static files from the public/ folder:
+
 ##
         const express = require('express');
         const path = require('path');
