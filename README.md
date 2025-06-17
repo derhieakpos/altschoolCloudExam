@@ -108,4 +108,4 @@ update the library
 Public IP: http://54.171.110.51:3000/
 
 ## 📸 Screenshot
-![Image](<Screenshot 2025-06-15 041654.png>)
+![Screenshot](<Screenshot 2025-06-15 041654.png>)
